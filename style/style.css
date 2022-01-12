@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 30px;
+  width: 960px;
+  margin: 0 auto;
+}
+
+.center {
+  margin: 0 auto;
+}
+
+.container {
+  width: 1060px;
+  margin: 30px;
+  background: #E0E7CE;
+}
+
+.rectangle {
+  height: 156px;
+  width: 189px;
+  background: #F09B9B;
+  margin: 13px;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.fix-position {
+  width: 430px;
+  margin: auto;
+}
+
+.inline {
+  display: inline-block;
+}
+
+.flat {
+  height: 71px;
+}
